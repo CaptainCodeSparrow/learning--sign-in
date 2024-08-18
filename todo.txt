@@ -1,3 +1,5 @@
+Create a figma design first
+
 Create a sign up form
   - Email address
   - Name
