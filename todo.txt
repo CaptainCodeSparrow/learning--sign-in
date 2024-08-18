@@ -1,0 +1,10 @@
+Create a sign up form
+  - Email address
+  - Name
+  - Date of birth
+  - Password
+  - Agree terms and conditions
+
+When continue button is clicked,
+if all the values are present then show an alert saying 
+"Account created successfully🎉🎉🎉"
